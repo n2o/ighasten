@@ -164,7 +164,7 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
+  //width: 100px;
   height: 100px;
   margin-right: 15px;
 
@@ -211,7 +211,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 35px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -280,6 +280,24 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+figure {
+  width: 300px;
+}
+
+figure figcaption {
+	color: #000;
+	width: 100%;
+	font-style: italic;
+	text-align: center;
+	font-size: 0.8em;
+	line-height: 1.3em;
+	border-radius: 0 0 3px 3px;
+}
+
+.published {
+  font-style: italic;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
