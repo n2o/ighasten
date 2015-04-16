@@ -25,18 +25,17 @@ title: Aktuelle Informationen
   {% endfor %}
 </div> -->
 
-Hello
-
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
   <p class="author">
-    <span class="date">{{ post.date }}</span>
+    <span class="date">{{ post.date | date: "%d.%m.%Y" }}</span>
   </p>
   <div class="content">
     {{ post.content }}
   </div>
+  <div class="masthead"></div>
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
@@ -64,4 +63,3 @@ Hello
   {% endif %}
 </div>
 {% endif %}
-Bloglist
