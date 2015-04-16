@@ -14,5 +14,6 @@ Die IG Hasten bedankt sich bei allen Teilnehmern und Besuchern des Weihnachtstre
 Im Namen des Vorstandes,
 
 
-Hans Liebig
-stellv. Vors.
+
+Hans Liebig  
+stellv. Vorsitzender
