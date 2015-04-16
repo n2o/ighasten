@@ -13,7 +13,7 @@ avatar: images/logo_text_100.png
 
 # Define pagination for blog posts etc.
 paginate: 5
-paginate_path: "/aktuelles/page:num/"
+paginate_path: "/aktuelles/seite/:num"
 
 #
 # Flags below are optional
