@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nachtrag zum 20. Hastener Weihnachtstreff
+categories: display
 ---
 
 Wie man auf den nachfolgenden Bildern sieht war auch der 20. Hastener Weihnachtstreff wieder ein toller Erfolg.

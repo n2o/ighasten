@@ -1,0 +1,21 @@
+---
+layout: page
+title: Archivierte Informationen
+permalink: /archiv/aktuelles/
+---
+
+<!-- This loops through the paginated posts -->
+{% for post in site.posts %}
+  {% for category in post.categories %}
+    {% unless category != "archive" %}
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <p class="author">
+        <span class="date">{{ post.date | date: "%d.%m.%Y" }}</span>
+      </p>
+      <div class="content">
+        {{ post.content }}
+      </div>
+      <div class="masthead"></div>
+    {% endunless %}
+  {% endfor %}
+{% endfor %}

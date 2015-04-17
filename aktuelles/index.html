@@ -28,14 +28,18 @@ title: Aktuelle Informationen
 
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-  <p class="author">
-    <span class="date">{{ post.date | date: "%d.%m.%Y" }}</span>
-  </p>
-  <div class="content">
-    {{ post.content }}
-  </div>
-  <div class="masthead"></div>
+  {% for category in post.categories %}
+    {% unless category != "display" %}
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <p class="author">
+        <span class="date">{{ post.date | date: "%d.%m.%Y" }}</span>
+      </p>
+      <div class="content">
+        {{ post.content }}
+      </div>
+      <div class="masthead"></div>
+    {% endunless %}
+  {% endfor %}
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
@@ -65,4 +69,4 @@ title: Aktuelle Informationen
 <div class="masthead"></div>
 {% endif %}
 
-<a href="{{ site.baseurl }}/aktuelles/archiv/">Hier geht es zu unserem Archiv.</a>
+<a href="{{ site.baseurl }}/archiv/aktuelles/">Hier geht es zu unserem Archiv.</a>

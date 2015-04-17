@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Wohnraum für Studenten
+categories: display
 ---
 
 Die IGH möchte unsere Freunde und Mitbürger nochmals daran erinnern, dass der Wohnraum für
