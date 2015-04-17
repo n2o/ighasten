@@ -12,7 +12,7 @@ description: Interessengemeinschaft Hasten e.V.
 avatar: images/logo_text_100.png
 
 # Define pagination for blog posts etc.
-paginate: 5
+paginate: 100
 paginate_path: "/aktuelles/seite/:num"
 
 #
@@ -69,6 +69,7 @@ sass:
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-gallery-generator
 
 # Exclude these files from your production _site
 exclude:
@@ -76,3 +77,28 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+# Options for the gallery
+gallery:
+  # path to the gallery
+  dir: galerie
+  # title for gallery index
+  title: "Galerie"
+  # title prefix for gallery page. title=title_prefix+gallery_name
+  title_prefix: ""
+  # field to control sorting of galleries for the index page
+  # (possible values are: title, date_time, best_image)
+  sort_field: "date_time"
+  # sizes for thumbnails
+  thumbnail_size:
+    x: 400
+    y: 400
+  # custom configuration for individual gallery
+  # best_image is image for the index page (defaults to last image)
+  # galleries:
+  #   2014-weihnachtstreff:
+  #     best_image: IMG_1068.JPG
+  #   japan_trip:
+  #     best_image: IMG_0690.JPG
+  #   best:
+  #     best_image: snaileo_gonzales.jpg

@@ -37,12 +37,12 @@ title: Aktuelle Informationen
       <div class="content">
         {{ post.content }}
       </div>
-      <div class="masthead"></div>
+      <hr />
     {% endunless %}
   {% endfor %}
 {% endfor %}
 
-{% if paginator.total_pages > 1 %}
+<!-- {% if paginator.total_pages > 1 %}
 <ul class="pagination">
   <li>
     <a rel="prev" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" aria-label="Previous">
@@ -54,7 +54,7 @@ title: Aktuelle Informationen
     {% if page == paginator.page %}
       <li class="active"><a href="#">1 <span class="sr-only">(current)</span></a></li>
     {% elsif page == 1 %}
-      <li><a href="{{ '/archives' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+      <li><a href="{{ '/aktuelles' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
     {% else %}
       <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
     {% endif %}
@@ -67,6 +67,6 @@ title: Aktuelle Informationen
   </li>
 </ul>
 <div class="masthead"></div>
-{% endif %}
+{% endif %} -->
 
-<a href="{{ site.baseurl }}/archiv/aktuelles/">Hier geht es zu unserem Archiv.</a>
+<a class="btn btn-default" href="{{ site.baseurl }}/archiv/aktuelles/">Hier geht es zu unserem Archiv.</a>
