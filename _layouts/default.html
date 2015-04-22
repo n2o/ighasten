@@ -1,3 +1,19 @@
+---
+navigation:
+- text: Aktuelles
+  url: /aktuelles/
+- text: Termine
+  url: /termine/
+- text: Stadtteil
+  url: /stadtteil/
+- text: Galerie
+  url: /galerie/
+- text: Verein
+  url: /verein/
+- text: Kontakt
+  url: /kontakt/
+---
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -31,18 +47,13 @@
           <header class="masthead clearfix">
             <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}/images/logo_text_100.png" /></a>
 
-            <!-- <div class="site-info">
-              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            </div> -->
-
             <nav>
-              <a href="{{ site.baseurl }}/aktuelles">Aktuelles</a>
-              <a href="{{ site.baseurl }}/termine">Termine</a>
-              <a href="{{ site.baseurl }}/stadtteil">Stadtteil</a>
-              <a href="{{ site.baseurl }}/galerie">Galerie</a>
-              <a href="{{ site.baseurl }}/verein">Verein</a>
-              <a href="{{ site.baseurl }}/kontakt">Kontakt</a>
+              {% for link in page.navigation %}
+                {% assign url = page.url|remove:'index.html' %}
+                <a href="{{link.url}}" {% if url == link.url %}class="current"{% endif %}>{{link.text}}</a>
+              {% endfor %}
             </nav>
+
           </header>
         </div>
       </div>
@@ -55,7 +66,6 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          <!-- {% include svg-icons.html %} -->
           <a href="{{ site.baseurl }}/impressum">Impressum</a>
         </footer>
       </div>

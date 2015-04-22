@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stadtentwicklung
+title: Stadtteil
 permalink: /stadtteil/
 ---
 ### Hasten

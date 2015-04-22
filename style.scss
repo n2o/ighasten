@@ -304,3 +304,7 @@ figure figcaption {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+.current {
+  text-decoration: underline !important;
+}

@@ -4,7 +4,7 @@ title: Nachtrag zum 20. Hastener Weihnachtstreff
 categories: display
 ---
 
-Wie man auf den nachfolgenden Bildern sieht war auch der 20. Hastener Weihnachtstreff wieder ein toller Erfolg.
+Wie man auf den [nachfolgenden Bildern]({{ site.baseurl }}/galerie/weihnachtstreff_2014/) sieht war auch der 20. Hastener Weihnachtstreff wieder ein toller Erfolg.
 
 Das zeigt, die Hastener können mit Familien und Freunden aus nah und fern, immer wieder in der Adventszeit, einen netten Plausch halten und gemütlich zusammen sitzen.
 
