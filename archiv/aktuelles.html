@@ -4,6 +4,10 @@ title: Archivierte Informationen
 permalink: /archiv/aktuelles/
 ---
 
+<div style="float: right;">
+  <a class="btn btn-default" href="{{ site.baseurl }}/archiv/hasten-hats/">Ausgaben der Hasten hat's</a>
+</div>
+
 <!-- This loops through the paginated posts -->
 {% for post in site.posts %}
   {% for category in post.categories %}
@@ -19,3 +23,7 @@ permalink: /archiv/aktuelles/
     {% endunless %}
   {% endfor %}
 {% endfor %}
+
+<div>
+  <a class="btn btn-default" href="{{ site.baseurl }}/archiv/hasten-hats/">Ausgaben der Hasten hat's</a>
+</div>

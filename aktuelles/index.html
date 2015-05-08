@@ -2,6 +2,12 @@
 layout: page
 title: Aktuelles
 ---
+
+<div style="float: right;">
+  <a class="btn btn-default" href="{{ site.baseurl }}/archiv/hasten-hats/">Ausgaben der Hasten hat's</a>
+  <a class="btn btn-default" href="{{ site.baseurl }}/archiv/aktuelles/">Hier geht es zu unserem Archiv</a>
+</div>
+
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
   {% for category in post.categories %}
@@ -18,31 +24,7 @@ title: Aktuelles
   {% endfor %}
 {% endfor %}
 
-<!-- {% if paginator.total_pages > 1 %}
-<ul class="pagination">
-  <li>
-    <a rel="prev" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" aria-label="Previous">
-      <span aria-hidden="true">&laquo;</span>
-    </a>
-  </li>
-
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <li class="active"><a href="#">1 <span class="sr-only">(current)</span></a></li>
-    {% elsif page == 1 %}
-      <li><a href="{{ '/aktuelles' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
-    {% else %}
-      <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
-    {% endif %}
-  {% endfor %}
-
-  <li>
-    <a rel="next" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" aria-label="Next">
-      <span aria-hidden="true">&raquo;</span>
-    </a>
-  </li>
-</ul>
-<div class="masthead"></div>
-{% endif %} -->
-
-<a class="btn btn-default" href="{{ site.baseurl }}/archiv/aktuelles/">Hier geht es zu unserem Archiv</a>
+<div>
+  <a class="btn btn-default" href="{{ site.baseurl }}/archiv/hasten-hats/">Ausgaben der Hasten hat's</a>
+  <a class="btn btn-default" href="{{ site.baseurl }}/archiv/aktuelles/">Hier geht es zu unserem Archiv</a>
+</div>

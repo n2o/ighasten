@@ -1,0 +1,19 @@
+---
+layout: page
+title: Ausgaben der Hasten hat's
+permalink: /archiv/hasten-hats/
+---
+
+<!-- This loops through the paginated posts -->
+{% for post in site.posts %}
+  {% if post.hasten_hats %}
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p class="author">
+      <span class="date">{{ post.date | date: "%d.%m.%Y" }}</span>
+    </p>
+    <div class="content">
+      {{ post.content }}
+    </div>
+    <hr>
+  {% endif %}
+{% endfor %}

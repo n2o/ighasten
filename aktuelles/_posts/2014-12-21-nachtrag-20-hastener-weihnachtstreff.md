@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nachtrag zum 20. Hastener Weihnachtstreff
+title: Zum 20. Hastener Weihnachtstreff
 categories: display
 ---
 
