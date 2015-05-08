@@ -300,6 +300,32 @@ figure figcaption {
   font-style: italic;
 }
 
+/* Make footer sticky */
+/* Sticky footer styles */
+html {
+  position: relative;
+  min-height: 100%;
+}
+#main {
+  /* Margin bottom by footer height */
+  @media only screen and (min-width: 1000px) {
+    margin-bottom: 90px;
+  }
+}
+.wrapper-footer {
+  margin-top: 50px;
+
+  @media only screen and (min-width: 1000px) {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 90px;
+  }
+}
+/* END Make footer sticky */
+
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
