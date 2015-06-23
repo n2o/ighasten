@@ -21,12 +21,12 @@ Wenn Ihnen auch der Hasten, der Mittelpunkt vom Hasten,
 der Richard-Lindenberg-Platz, am Herzen
 liegt, freuen wir uns über die kleinste Spende.
 
-Spenden bitte an:  
-"Hasten für Hasten" e.V.  
-Stadtsparkasse Remscheid  
-IBAN: DE03 3405 0000 0012 1052 76
+**Spenden bitte an:**  
+**"Hasten für Hasten" e.V.**  
+**Stadtsparkasse Remscheid**  
+**IBAN: DE03 3405 0000 0012 1052 76**
 
-Bitte als Verwendungszweck **Richard-Lindenberg-Platz** angeben.
+Bitte als **Verwendungszweck Richard-Lindenberg-Platz** angeben.
 
 Wir danken Ihnen für Ihre Unterstützung.
 
