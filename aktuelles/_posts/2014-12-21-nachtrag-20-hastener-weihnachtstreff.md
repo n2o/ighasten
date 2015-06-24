@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zum 20. Hastener Weihnachtstreff
-categories: display
+categories: archive
 ---
 
 Wie man auf den [nachfolgenden Bildern]({{ site.baseurl }}/galerie/weihnachtstreff_2014/) sieht war auch der 20. Hastener Weihnachtstreff wieder ein toller Erfolg.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Frühjahrsputz
-categories: display
+categories: archive
 ---
 
 Um die Seite zu vereinfachen und übersichtlicher zu machen, haben wir einen kleinen Frühjahrsputz vorgenommen.
