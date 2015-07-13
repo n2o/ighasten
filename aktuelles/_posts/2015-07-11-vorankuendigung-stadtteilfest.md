@@ -1,42 +1,70 @@
 ---
 layout: post
-title: Vorankündigung<br>Stadtteilfest der IGHasten e.V. 22. + 23.08.2015
+title: Vorankündigung<br>Stadtteilfest des IGHasten e.V. 22. + 23.08.2015
 categories: display
 ---
 
 Das **IGH Stadtteilfest 22. + 23. August** wirft seine Schatten voraus. Wir möchten
-Ihnen an dieser Stelle einen kleinen Überblick des Programms geben.
+Ihnen an dieser Stelle einen kleinen Überblick des Programms geben:
 
-An beiden Tagen findet ein großer Trödelmarkt auf dem Hasten statt.
+&nbsp;
 
-### Samstag 22. August
+<div class="row">
+  <div class="col-md-6">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">Samstag 22. August</h3>
+      </div>
 
-*Zeit: 11.00 - 23.00 Uhr*
+      <div class="panel-body">
+        <p>
+          <i>Zeit: 11:00 - 23:00 Uhr</i>
+        </p>
+        <p>
+          Buntes Treiben, großes Karussell, Clown und Kinderschminken mit
+          "Speckstein Werkstatt" Wuppertal.<br>
+          Großes Angebot an kulinarischen Köstlichkeiten.
+        </p>
+        <p>
+          <strong>Hauptprogramm ab 19:00- 23:00 Uhr mit der Band "iXTRA Live"</strong>
+        </p>
+      </div>
+    </div>
+  </div>
 
-Buntes Treiben, großes Karussell, Clown und Kinderschminken mit
-"Speckstein Werkstatt" Wuppertal.  
-Großes Angebot an kulinarischen Köstlichkeiten.
+  <div class="col-md-6">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">Sonntag 23. August</h3>
+      </div>
 
-**Hauptprogramm ab 19.00- 23.00 Uhr mit der Band "iXTRA Live"**
+      <div class="panel-body">
+        <p>
+          <i>Zeit: 11:00 - 18:00 Uhr</i>
+        </p>
+        <p>
+          Buntes Treiben, großes Karussell, Clown und Kinderschminken mit
+          "Speckstein Werkstatt" Wuppertal.<br>
+          Großes Angebot an kulinarischen Köstlichkeiten.
+        </p>
+        <p>
+          <strong>Musikprogramm ab 13:00 mit "FRAME WORK"</strong>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
 
+### Trödelmarkt
+An beiden Tagen findet ein großer Trödelmarkt auf dem Hasten statt. Bitte melden Sie sich bei
+**TEAM3** an:
 
-### Sonntag 23. August
-
-*Zeit: 11.00 - 18.00 Uhr*
-
-Buntes Treiben, großes Karussell, Clown und Kinderschminken mit
-"Speckstein Werkstatt" Wuppertal.  
-Großes Angebot an kulinarischen Köstlichkeiten.
-
-**Musikprogramm ab 13.00 mit "FRAME WORK"**
-
-
-### Anmeldung
-
-TEAM3, Tel. 02261- 29621 und 0171- 812 76 43
+Telefon: [02261 - 29621](tel:02261 - 29621) oder [0171 - 812 76 43](tel:0171 - 812 76 43).
 
 &nbsp;
 
 Mit freundlichen Grüßen
+
+&nbsp;
 
 Hans Liebig
