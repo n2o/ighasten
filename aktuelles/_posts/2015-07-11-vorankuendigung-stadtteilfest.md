@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vorankündigung<br>Stadtteilfest des IGHasten e.V. 22. + 23.08.2015
+title: Vorankündigung<br>Stadtteilfest des IGHasten e.V. 22. + 23.08.2015<br><span class="badge">Zeiten geändert</span>
 categories: display
 ---
 
@@ -26,7 +26,7 @@ Ihnen an dieser Stelle einen kleinen Überblick des Programms geben:
           Großes Angebot an kulinarischen Köstlichkeiten.
         </p>
         <p>
-          <strong>Hauptprogramm ab 19:00- 23:00 Uhr mit der Band "iXTRA Live"</strong>
+          <strong>Hauptprogramm von 19:00 - 22:00 Uhr mit der Band "iXTRA Live"</strong>
         </p>
       </div>
     </div>
