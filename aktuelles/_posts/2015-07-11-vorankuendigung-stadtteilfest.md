@@ -18,7 +18,7 @@ Ihnen an dieser Stelle einen kleinen Überblick des Programms geben:
 
       <div class="panel-body">
         <p>
-          <i>Zeit: 11:00 - 23:00 Uhr</i>
+          <i>Zeit: 11:00 - 22:00 Uhr</i>
         </p>
         <p>
           Buntes Treiben, großes Karussell, Clown und Kinderschminken mit
@@ -40,7 +40,7 @@ Ihnen an dieser Stelle einen kleinen Überblick des Programms geben:
 
       <div class="panel-body">
         <p>
-          <i>Zeit: 11:00 - 18:00 Uhr</i>
+          <i>Zeit: 11:00 - 20:00 Uhr</i>
         </p>
         <p>
           Buntes Treiben, großes Karussell, Clown und Kinderschminken mit
@@ -48,7 +48,7 @@ Ihnen an dieser Stelle einen kleinen Überblick des Programms geben:
           Großes Angebot an kulinarischen Köstlichkeiten.
         </p>
         <p>
-          <strong>Musikprogramm ab 13:00 mit "FRAME WORK"</strong>
+          <strong>Musikprogramm von 13:00 - 17:00 mit "FRAME WORK"</strong>
         </p>
       </div>
     </div>
