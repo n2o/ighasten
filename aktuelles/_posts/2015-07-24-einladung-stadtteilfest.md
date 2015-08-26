@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plakat<br>Stadtteilfest des IGHasten e.V. 22. + 23.08.2015
-categories: display
+categories: archive
 ---
 
 <div class="row">

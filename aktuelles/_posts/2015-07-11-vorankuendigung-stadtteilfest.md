@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vorankündigung<br>Stadtteilfest des IGHasten e.V. 22. + 23.08.2015<br><span class="badge">Zeiten geändert</span>
-categories: display
+categories: archive
 ---
 
 Das **IGH Stadtteilfest 22. + 23. August** wirft seine Schatten voraus. Wir möchten
