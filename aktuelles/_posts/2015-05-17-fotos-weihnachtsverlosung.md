@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fotos der Weihnachtsverlosung 2014
-categories: display
+categories: archive
 ---
 
 Neue Fotos der vergangenen Weihnachtsfeier sind nun online verfügbar. Sie finden sie in unserer [Galerie]({{ site.baseurl }}/galerie/weihnachtsverlosung_2014).
