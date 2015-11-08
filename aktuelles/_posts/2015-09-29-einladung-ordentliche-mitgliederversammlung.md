@@ -1,8 +1,13 @@
 ---
 layout: post
 title: Einladung zur ordentlichen Mitgliederversammlung
-categories: display
+categories: archive
 ---
+
+<p class="text-info">
+  Das Protokoll zur ordentl. Mitgliederversammlung vom
+  05.11.2015 können Mitglieder gerne beim Vorstand erfragen
+</p>
 
 Der Vorstand lädt hiermit zur ordentlichen Mitgliederversammlung ein!
 
