@@ -1,15 +1,11 @@
 ---
-layout: default
+layout: post
+title: 21. Hastener Weihnachtstreff am 06.12.2015
+categories: display
 ---
-
-{% include carousel.html %}
-
-<hr>
-
-<h1>21. Hastener Weihnachtstreff am 06.12.2015</h1>
-<h3>Adresse</h3>
-<strong>Der IG Hasten e.V.</strong><br>
-<a href="https://www.openstreetmap.org/way/275952840">Pauluskirche</a><br>
+###  Adresse
+**Der IG Hasten e.V.**
+[Pauluskirche](https://www.openstreetmap.org/way/275952840)
 RS-Hasten, Büchelstraße
 
 
@@ -52,7 +48,3 @@ RS-Hasten, Büchelstraße
     </a>
   </div>
 </div>
-
-<hr>
-
-{% include ziele-des-vereins.html %}
