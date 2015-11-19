@@ -30,7 +30,7 @@ categories: display
 
     <h3>Bürgerbus</h3>
     <p>
-      Natürlich ist auch wieder der Bürgerbus für Sie da. Schauen Sie sich dazu <a href="{{ site.baseurl }}/downloads/2015/weihnachtstreff_2015_fahrplan.pdf">hier den Fahrplan an!</a>
+      Natürlich ist auch wieder der Bürgerbus für Sie da. Schauen Sie sich dazu <a href="{{ site.baseurl }}/downloads/2015/weihnachtstreff_2015_fahrplan.pdf">hier den Fahrplan an!</a> Weitere Einzelheiten und Fragen können Sie direkt an den 1. Bürgerbusverein Remscheid richten.
     </p>
 
     <p>
