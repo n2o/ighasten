@@ -34,17 +34,26 @@ categories: display
     </h3>
   </div>
   <div class="panel-body">
-    <p>
-      Die Grundschule, soziale Einrichtungen vom Hasten, nennen anonym Wünsche (bis ca. 20,00 €), die an den Weihnachtswunschbaum gehangen werden.<br>
-      Ein jeder Bürger kann den Wunsch erfüllen.<br>
-      Das Geschenk wird dann anonym wieder über die soziale Einrichtung an den/die Wunschperson übergeben.
-    </p>
-    <p>
-      Jeder der Freude bereiten möchte, bitte im Geschäft Blumen Röttger zur Registrierung, melden. Danke!
-    </p>
-    <p>
-      Der Wunschbaum steht im hinteren Außengelände täglich zur Geschäftszeit von Blumen Röttger zur Verfügung.
-    </p>
+    <div class="row">
+      <div class="col-md-8">
+        <p>
+          Die Grundschule, soziale Einrichtungen vom Hasten, nennen anonym Wünsche (bis ca. 20,00 €), die an den Weihnachtswunschbaum gehangen werden.<br>
+          Ein jeder Bürger kann den Wunsch erfüllen.<br>
+          Das Geschenk wird dann anonym wieder über die soziale Einrichtung an den/die Wunschperson übergeben.
+        </p>
+        <p>
+          Jeder der Freude bereiten möchte, bitte im Geschäft Blumen Röttger zur Registrierung, melden. Danke!
+        </p>
+        <p>
+          Der Wunschbaum steht im hinteren Außengelände täglich zur Geschäftszeit von Blumen Röttger zur Verfügung.
+        </p>
+      </div>
+      <div class="col-md-4 text-right">
+        <a href="{{ site.baseurl }}/images/2015/weihnachtsbaum.jpg">
+          <img src="{{ site.baseurl }}/images/2015/weihnachtsbaum_thumb.jpg" alt="weihnachtsbaum" />
+        </a>
+      </div>
+    </div>
   </div>
 </div>
 

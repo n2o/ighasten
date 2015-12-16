@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 21. Hastener Weihnachtstreff am 06.12.2015
-categories: display
+categories: archive
 ---
 <div class="row">
   <div class="col-md-6">
