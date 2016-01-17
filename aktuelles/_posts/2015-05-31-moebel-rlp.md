@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Möbel am Richard-Lindenberg-Platz
-categories: display
+categories: archive
 ---
 
 Am 25. September 2014 konnten wir berichten,

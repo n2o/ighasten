@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Danksagung für Außenmöbel und Stadtteilfest
-categories: display
+categories: archive
 ---
 
 Liebe Freunde, Gönner und Bürger vom Hasten,

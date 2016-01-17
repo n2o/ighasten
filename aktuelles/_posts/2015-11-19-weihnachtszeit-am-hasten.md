@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Weihnachtszeit am Hasten mit Gewinnspiel
-categories: display
+categories: archive
 ---
 
 <div class="panel panel-default">
