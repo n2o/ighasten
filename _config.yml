@@ -71,6 +71,7 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-gallery-generator
   - jekyll-paginate
+  - rb-pygments
 
 # Exclude these files from your production _site
 exclude:
