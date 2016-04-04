@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Zweite Ansage - Wohnraum für Studenten
-categories: display
+categories: archive
 ---
 
 Liebe Freunde, wenn Sie Wohnraum anzubieten haben, die Studenten suchen Wohnmöglichkeiten.

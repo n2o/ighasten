@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neue Ausgabe Hasten hat's
-categories: display
+categories: archive
 hasten_hats: true
 ---
 

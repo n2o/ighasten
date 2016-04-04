@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fotos der Fächertanne und des 21. Hastener Weihnachtstreffs
-categories: display
+categories: archive
 ---
 
 <div class="row">
