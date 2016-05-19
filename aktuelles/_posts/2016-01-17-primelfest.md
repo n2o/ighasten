@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Primelfest für Mitglieder der IG Hasten e.V.
-categories: display
+categories: archive
 ---
 
 > Am: 23.04.2016  
