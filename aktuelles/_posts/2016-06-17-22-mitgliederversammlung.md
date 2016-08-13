@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 22. ordentliche Mitgliederversammlung
-categories: display
+categories: archive
 ---
 
 Am 07.07.2016 um 20:00 Uhr findet die diesjährige 22. ordentliche Mitgliederversammlung im
@@ -21,4 +21,3 @@ Wir hoffen auf rege Beteiligung!
 
 Ihre  
 Interessengemeinschaft Hasten e.V.
-
