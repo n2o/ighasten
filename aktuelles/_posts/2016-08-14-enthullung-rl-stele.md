@@ -12,5 +12,7 @@ und die Politik.
 
 Wir würden uns sehr über Ihren Besuch freuen!
 
-Ihre  
-Interessengemeinschaft Hasten e.V.
+Hans Liebig  
+Stellv. Vors.
+
+IG Hasten e.V.
