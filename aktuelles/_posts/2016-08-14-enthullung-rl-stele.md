@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enthüllung der Richard-Lindenberg-Stele
-categories: display
+categories: archive
 ---
 
 Am 23.08. um 17.00 Uhr möchte die IGH die aufgestellte Stele den Hastener Bürgern
