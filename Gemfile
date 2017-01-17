@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+gem "jekyll"
+gem "jekyll-sitemap"
+gem "jekyll-gallery-generator", "0.9.0"
+gem "jekyll-paginate"
+gem "rb-pygments"
+gem "redcarpet"
